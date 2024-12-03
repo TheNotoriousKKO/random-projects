@@ -1,5 +1,5 @@
 My Python Projects Collection
-This repository showcases a curated selection of Python projects developed throughout my Computer Science education and self-directed learning journey. Each project demonstrates proficiency in various programming concepts, algorithms, and libraries.
+Very basic python projects gathered over my years of CS education / self teaching.
 Featured Projects
 1. Sorting Algorithms Visualizer
 Description: A dynamic visual representation of sorting algorithms, designed using the matplotlib library.
