@@ -15,9 +15,6 @@ Step-by-step demonstration of the shortest path calculation.
 Tech Stack: Python, NetworkX, Matplotlib.
 3. Advent of Code 2024
 Description: Solutions to the 2024 edition of Advent of Code, showcasing problem-solving skills and algorithmic thinking.
-Features:
-Organized by day and challenge.
-Includes detailed comments explaining the thought process and approach.
 Tech Stack: Python.
 4. Image Processing Tasks
 Description: A collection of image processing algorithms developed during the Computer Science Algorithms and Data Structures course.
